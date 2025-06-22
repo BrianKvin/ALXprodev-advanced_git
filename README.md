@@ -156,5 +156,3 @@ Congratulations on reaching the end of the Git-Flow Project! You've learned esse
 
 ```
 
-Let me know if you’d like this broken into separate sections or included with a `.md` file download.
-```
